@@ -1,0 +1,22 @@
+*{
+margin:0%;
+padding : 0%;
+box-sizing: border-box;
+background-color:#fd723b;
+text-transform: uppercase;
+}
+
+.heading{
+    text-align: center;
+    margin-top:2rem;
+    background-color: azure;
+}
+.match{
+    border:2px solid black;
+    height:7rem;
+    width:40rem;
+    margin-left: 20rem;
+    display: grid;
+    place-items: center;
+    margin-top: 10px;;
+}
